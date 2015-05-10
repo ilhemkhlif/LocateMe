@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/C:/Users/ASUS/Documents/GitHub/SendEmail/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/res/values/values.xml -->
+    <!-- From: file:/C:/Users/ASUS/Documents/GitHub/LocateMe/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/res/values/values.xml -->
     <eat-comment/>
     <attr format="reference" name="actionBarDivider"/>
     <attr format="reference" name="actionBarItemBackground"/>
@@ -107,11 +107,11 @@
     <dimen name="abc_panel_menu_list_width">296dp</dimen>
     <dimen name="abc_search_view_preferred_width">320dip</dimen>
     <dimen name="abc_search_view_text_min_width">160dip</dimen>
-    <!-- From: file:/C:/Users/ASUS/Documents/GitHub/SendEmail/app/src/main/res/values/dimens.xml -->
+    <!-- From: file:/C:/Users/ASUS/Documents/GitHub/LocateMe/app/src/main/res/values/dimens.xml -->
     <eat-comment/>
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
-    <!-- From: file:/C:/Users/ASUS/Documents/GitHub/SendEmail/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/res/values/values.xml -->
+    <!-- From: file:/C:/Users/ASUS/Documents/GitHub/LocateMe/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/res/values/values.xml -->
     <eat-comment/>
     <item name="dialog_fixed_height_major" type="dimen">80%</item>
     <item name="dialog_fixed_height_minor" type="dimen">100%</item>
@@ -137,14 +137,14 @@
     <string name="abc_searchview_description_voice">Voice search</string>
     <string name="abc_shareactionprovider_share_with">Share with</string>
     <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
-    <!-- From: file:/C:/Users/ASUS/Documents/GitHub/SendEmail/app/src/main/res/values/strings.xml -->
+    <!-- From: file:/C:/Users/ASUS/Documents/GitHub/LocateMe/app/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="action_about">About us</string>
     <string name="action_settings">Settings</string>
     <string name="app_name">LocateMe</string>
     <string name="pref_previously_started">true</string>
     <string name="title_activity_modify">ModifyActivity</string>
-    <!-- From: file:/C:/Users/ASUS/Documents/GitHub/SendEmail/app/src/main/res/values/styles.xml -->
+    <!-- From: file:/C:/Users/ASUS/Documents/GitHub/LocateMe/app/src/main/res/values/styles.xml -->
     <eat-comment/>
     <style name="AppBaseTheme" parent="Theme.AppCompat.Light">
         <!--
@@ -156,7 +156,7 @@
     <style name="AppTheme" parent="AppBaseTheme">
         <!-- All customizations that are NOT specific to a particular API-level can go here. -->
     </style>
-    <!-- From: file:/C:/Users/ASUS/Documents/GitHub/SendEmail/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/res/values/values.xml -->
+    <!-- From: file:/C:/Users/ASUS/Documents/GitHub/LocateMe/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/res/values/values.xml -->
     <eat-comment/>
     <style name="TextAppearance.AppCompat.Base.CompactMenu.Dialog" parent="android:TextAppearance.Medium">
         <item name="android:textColor">@android:color/primary_text_light</item>

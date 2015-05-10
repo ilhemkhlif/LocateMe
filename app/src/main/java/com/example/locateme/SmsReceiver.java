@@ -64,7 +64,7 @@ public class SmsReceiver extends BroadcastReceiver
                     if(messageRecu.equals(FirstMainActivity.getCode())){
 
                          messageAEnvoyer="The phone location is \n"
-                                 +"https://www.google.tn/maps/@"+latitudeStr+","+longitudeStr+",20z" ;
+                                 +"https://www.google.tn/maps/@"+latitudeStr+","+longitudeStr+",18z" ;
 
 
                     } else {

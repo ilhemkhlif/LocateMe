@@ -1,6 +1,6 @@
-C:\Users\ASUS\Documents\GitHub\SendEmail\app\build\intermediates\classes\debug
-C:\Users\ASUS\Documents\GitHub\SendEmail\app\build\intermediates\pre-dexed\debug\activation-8b65bd1240df40dfd08df09ca705bb84735e100b.jar
-C:\Users\ASUS\Documents\GitHub\SendEmail\app\build\intermediates\pre-dexed\debug\additionnal-0952a041828ab3f22bdd13942326ddc364c66698.jar
-C:\Users\ASUS\Documents\GitHub\SendEmail\app\build\intermediates\pre-dexed\debug\classes-735378d316cdd1cbe0ec2d37e618349b13bc4787.jar
-C:\Users\ASUS\Documents\GitHub\SendEmail\app\build\intermediates\pre-dexed\debug\mail-68725fe13b0e2d08703b3b98b9a9aa690df30260.jar
-C:\Users\ASUS\Documents\GitHub\SendEmail\app\build\intermediates\pre-dexed\debug\android-support-v4-88e73107daea79938c2a8db1dbc3c145e6493be6.jar
+C:\Users\ASUS\Documents\GitHub\LocateMe\app\build\intermediates\classes\debug
+C:\Users\ASUS\Documents\GitHub\LocateMe\app\build\intermediates\pre-dexed\debug\activation-96a34192b960977aab9a9a4ba4b5cf6b3b1f4c71.jar
+C:\Users\ASUS\Documents\GitHub\LocateMe\app\build\intermediates\pre-dexed\debug\additionnal-8cb2fc2deac00d57680aea2f59edcadb4b442618.jar
+C:\Users\ASUS\Documents\GitHub\LocateMe\app\build\intermediates\pre-dexed\debug\classes-07e813d4f377deae69988635841b2329fa3bd26c.jar
+C:\Users\ASUS\Documents\GitHub\LocateMe\app\build\intermediates\pre-dexed\debug\mail-041b9ae447e941a2ec3e89fb9aa33e77d9177dc4.jar
+C:\Users\ASUS\Documents\GitHub\LocateMe\app\build\intermediates\pre-dexed\debug\android-support-v4-094a98c91ba9d802b1cd4c7f08ca6ac629e22137.jar

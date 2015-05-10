@@ -5,4 +5,4 @@
         android:title="@string/action_settings"
         android:orderInCategory="100" android:showAsAction="never" />
 </menu>
-<!-- From: file:/C:/Users/ASUS/Documents/GitHub/SendEmail/app/src/main/res/menu/menu_modify.xml -->
+<!-- From: file:/C:/Users/ASUS/Documents/GitHub/LocateMe/app/src/main/res/menu/menu_modify.xml -->

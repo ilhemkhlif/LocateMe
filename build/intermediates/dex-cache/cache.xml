@@ -2,18 +2,11 @@
 <items version="2" >
 
     <item
-        jar="C:\Users\ASUS\Documents\GitHub\SendEmail\app\libs\additionnal.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="bd9e8dc422bb8c8405359947fe9f4282b49f57f4">
-        <dex dex="C:\Users\ASUS\Documents\GitHub\SendEmail\app\build\intermediates\pre-dexed\debug\additionnal-0952a041828ab3f22bdd13942326ddc364c66698.jar" />
-    </item>
-    <item
-        jar="C:\Users\ASUS\Documents\GitHub\SendEmail\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\20.0.0\classes.jar"
+        jar="C:\Users\ASUS\Documents\GitHub\LocateMe\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\20.0.0\classes.jar"
         jumboMode="false"
         revision="22.0.1"
         sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef">
-        <dex dex="C:\Users\ASUS\Documents\GitHub\SendEmail\app\build\intermediates\pre-dexed\debug\classes-735378d316cdd1cbe0ec2d37e618349b13bc4787.jar" />
+        <dex dex="C:\Users\ASUS\Documents\GitHub\LocateMe\app\build\intermediates\pre-dexed\debug\classes-07e813d4f377deae69988635841b2329fa3bd26c.jar" />
     </item>
     <item
         jar="C:\Users\ASUS\Documents\GitHub\SendEmail\app\libs\activation.jar"
@@ -23,6 +16,13 @@
         <dex dex="C:\Users\ASUS\Documents\GitHub\SendEmail\app\build\intermediates\pre-dexed\debug\activation-8b65bd1240df40dfd08df09ca705bb84735e100b.jar" />
     </item>
     <item
+        jar="C:\Users\ASUS\Documents\GitHub\SendEmail\app\libs\additionnal.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="bd9e8dc422bb8c8405359947fe9f4282b49f57f4">
+        <dex dex="C:\Users\ASUS\Documents\GitHub\SendEmail\app\build\intermediates\pre-dexed\debug\additionnal-0952a041828ab3f22bdd13942326ddc364c66698.jar" />
+    </item>
+    <item
         jar="C:\Users\ASUS\Documents\GitHub\SendEmail\app\libs\mail.jar"
         jumboMode="false"
         revision="22.0.1"
@@ -30,11 +30,46 @@
         <dex dex="C:\Users\ASUS\Documents\GitHub\SendEmail\app\build\intermediates\pre-dexed\debug\mail-68725fe13b0e2d08703b3b98b9a9aa690df30260.jar" />
     </item>
     <item
+        jar="C:\Users\ASUS\Documents\GitHub\LocateMe\app\libs\additionnal.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="bd9e8dc422bb8c8405359947fe9f4282b49f57f4">
+        <dex dex="C:\Users\ASUS\Documents\GitHub\LocateMe\app\build\intermediates\pre-dexed\debug\additionnal-8cb2fc2deac00d57680aea2f59edcadb4b442618.jar" />
+    </item>
+    <item
+        jar="C:\Users\ASUS\Documents\GitHub\LocateMe\app\libs\mail.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="428e267abff0d10802ccde86b915da2c20471160">
+        <dex dex="C:\Users\ASUS\Documents\GitHub\LocateMe\app\build\intermediates\pre-dexed\debug\mail-041b9ae447e941a2ec3e89fb9aa33e77d9177dc4.jar" />
+    </item>
+    <item
+        jar="C:\Users\ASUS\Documents\GitHub\SendEmail\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\20.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef">
+        <dex dex="C:\Users\ASUS\Documents\GitHub\SendEmail\app\build\intermediates\pre-dexed\debug\classes-735378d316cdd1cbe0ec2d37e618349b13bc4787.jar" />
+    </item>
+    <item
         jar="C:\Users\ASUS\Documents\GitHub\SendEmail\app\libs\android-support-v4.jar"
         jumboMode="false"
         revision="22.0.1"
         sha1="efec67655f6db90757faa37201efcee2a9ec3507">
         <dex dex="C:\Users\ASUS\Documents\GitHub\SendEmail\app\build\intermediates\pre-dexed\debug\android-support-v4-88e73107daea79938c2a8db1dbc3c145e6493be6.jar" />
+    </item>
+    <item
+        jar="C:\Users\ASUS\Documents\GitHub\LocateMe\app\libs\android-support-v4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="efec67655f6db90757faa37201efcee2a9ec3507">
+        <dex dex="C:\Users\ASUS\Documents\GitHub\LocateMe\app\build\intermediates\pre-dexed\debug\android-support-v4-094a98c91ba9d802b1cd4c7f08ca6ac629e22137.jar" />
+    </item>
+    <item
+        jar="C:\Users\ASUS\Documents\GitHub\LocateMe\app\libs\activation.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d1257cbff6faa44c1f325ae0d9413522d4644383">
+        <dex dex="C:\Users\ASUS\Documents\GitHub\LocateMe\app\build\intermediates\pre-dexed\debug\activation-96a34192b960977aab9a9a4ba4b5cf6b3b1f4c71.jar" />
     </item>
 
 </items>
