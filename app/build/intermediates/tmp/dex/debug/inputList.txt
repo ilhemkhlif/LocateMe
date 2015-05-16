@@ -1,6 +1,0 @@
-C:\Users\ASUS\Documents\GitHub\LocateMe\app\build\intermediates\classes\debug
-C:\Users\ASUS\Documents\GitHub\LocateMe\app\build\intermediates\pre-dexed\debug\activation-96a34192b960977aab9a9a4ba4b5cf6b3b1f4c71.jar
-C:\Users\ASUS\Documents\GitHub\LocateMe\app\build\intermediates\pre-dexed\debug\additionnal-8cb2fc2deac00d57680aea2f59edcadb4b442618.jar
-C:\Users\ASUS\Documents\GitHub\LocateMe\app\build\intermediates\pre-dexed\debug\classes-07e813d4f377deae69988635841b2329fa3bd26c.jar
-C:\Users\ASUS\Documents\GitHub\LocateMe\app\build\intermediates\pre-dexed\debug\mail-041b9ae447e941a2ec3e89fb9aa33e77d9177dc4.jar
-C:\Users\ASUS\Documents\GitHub\LocateMe\app\build\intermediates\pre-dexed\debug\android-support-v4-094a98c91ba9d802b1cd4c7f08ca6ac629e22137.jar

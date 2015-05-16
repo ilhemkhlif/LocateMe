@@ -30,11 +30,7 @@ public class FirstMainActivity extends Activity implements OnClickListener{
 	ProgressDialog pdialog = null;
 	Context context = null;
 	EditText reciep;
-    String emailText="If your mobile is lost or stolen, you can send this code in a text message to the mobile and lost after one second you will receive its location.\n" +
-            "\n" +
-            "If you are an administrator and you want to detect the location of your carrier sales agents or distributors with our LocateMe everything is quick and easy, just install on their mobile LocateMe.\n" +
-            "\n" +
-            "If you have children and want to know its locations just install on their mobile LocateMe.";
+    String emailText="If your mobile is lost or stolen, you can send this code in a text message to the lost mobile then you will receive its location.\n";
 
     static String rec, subject=" Welcome to LocateMe ! ";
 	static String code;
